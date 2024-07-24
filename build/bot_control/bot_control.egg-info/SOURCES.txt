@@ -1,0 +1,16 @@
+package.xml
+setup.cfg
+setup.py
+../../build/bot_control/bot_control.egg-info/PKG-INFO
+../../build/bot_control/bot_control.egg-info/SOURCES.txt
+../../build/bot_control/bot_control.egg-info/dependency_links.txt
+../../build/bot_control/bot_control.egg-info/entry_points.txt
+../../build/bot_control/bot_control.egg-info/requires.txt
+../../build/bot_control/bot_control.egg-info/top_level.txt
+../../build/bot_control/bot_control.egg-info/zip-safe
+bot_control/__init__.py
+bot_control/reading_laser.py
+resource/bot_control
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

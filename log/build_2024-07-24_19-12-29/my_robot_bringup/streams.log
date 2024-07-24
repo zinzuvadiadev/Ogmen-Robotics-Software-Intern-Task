@@ -1,0 +1,45 @@
+[0.014s] Invoking command in '/home/dev/final_trial/build/my_robot_bringup': AMENT_PREFIX_PATH=/home/dev/final_trial/install/my_robot_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/dev/final_trial/install/my_robot_description:/opt/ros/humble /usr/bin/cmake /home/dev/final_trial/src/my_robot_bringup -DCMAKE_INSTALL_PREFIX=/home/dev/final_trial/install/my_robot_bringup
+[0.159s] -- The C compiler identification is GNU 11.4.0
+[0.298s] -- The CXX compiler identification is GNU 11.4.0
+[0.316s] -- Detecting C compiler ABI info
+[0.497s] -- Detecting C compiler ABI info - done
+[0.513s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.513s] -- Detecting C compile features
+[0.514s] -- Detecting C compile features - done
+[0.522s] -- Detecting CXX compiler ABI info
+[0.700s] -- Detecting CXX compiler ABI info - done
+[0.711s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.711s] -- Detecting CXX compile features
+[0.712s] -- Detecting CXX compile features - done
+[0.717s] -- Found ament_cmake: 1.3.9 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.996s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.269s] -- Configuring done
+[1.276s] -- Generating done
+[1.278s] -- Build files have been written to: /home/dev/final_trial/build/my_robot_bringup
+[1.288s] Invoked command in '/home/dev/final_trial/build/my_robot_bringup' returned '0': AMENT_PREFIX_PATH=/home/dev/final_trial/install/my_robot_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/dev/final_trial/install/my_robot_description:/opt/ros/humble /usr/bin/cmake /home/dev/final_trial/src/my_robot_bringup -DCMAKE_INSTALL_PREFIX=/home/dev/final_trial/install/my_robot_bringup
+[1.290s] Invoking command in '/home/dev/final_trial/build/my_robot_bringup': AMENT_PREFIX_PATH=/home/dev/final_trial/install/my_robot_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/dev/final_trial/install/my_robot_description:/opt/ros/humble /usr/bin/cmake --build /home/dev/final_trial/build/my_robot_bringup -- -j12 -l12
+[1.382s] Invoked command in '/home/dev/final_trial/build/my_robot_bringup' returned '0': AMENT_PREFIX_PATH=/home/dev/final_trial/install/my_robot_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/dev/final_trial/install/my_robot_description:/opt/ros/humble /usr/bin/cmake --build /home/dev/final_trial/build/my_robot_bringup -- -j12 -l12
+[1.440s] Invoking command in '/home/dev/final_trial/build/my_robot_bringup': AMENT_PREFIX_PATH=/home/dev/final_trial/install/my_robot_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/dev/final_trial/install/my_robot_description:/opt/ros/humble /usr/bin/cmake --install /home/dev/final_trial/build/my_robot_bringup
+[1.452s] -- Install configuration: ""
+[1.453s] -- Installing: /home/dev/final_trial/install/my_robot_bringup/share/my_robot_bringup//launch
+[1.453s] -- Installing: /home/dev/final_trial/install/my_robot_bringup/share/my_robot_bringup//launch/my_robot_gazebo.launch.xml
+[1.453s] -- Installing: /home/dev/final_trial/install/my_robot_bringup/share/my_robot_bringup//rviz
+[1.453s] -- Installing: /home/dev/final_trial/install/my_robot_bringup/share/my_robot_bringup//rviz/urdf_config.rviz
+[1.453s] -- Installing: /home/dev/final_trial/install/my_robot_bringup/share/my_robot_bringup//worlds
+[1.454s] -- Installing: /home/dev/final_trial/install/my_robot_bringup/share/my_robot_bringup//worlds/test_world.world
+[1.454s] -- Installing: /home/dev/final_trial/install/my_robot_bringup/share/ament_index/resource_index/package_run_dependencies/my_robot_bringup
+[1.454s] -- Installing: /home/dev/final_trial/install/my_robot_bringup/share/ament_index/resource_index/parent_prefix_path/my_robot_bringup
+[1.454s] -- Installing: /home/dev/final_trial/install/my_robot_bringup/share/my_robot_bringup/environment/ament_prefix_path.sh
+[1.455s] -- Installing: /home/dev/final_trial/install/my_robot_bringup/share/my_robot_bringup/environment/ament_prefix_path.dsv
+[1.455s] -- Installing: /home/dev/final_trial/install/my_robot_bringup/share/my_robot_bringup/environment/path.sh
+[1.455s] -- Installing: /home/dev/final_trial/install/my_robot_bringup/share/my_robot_bringup/environment/path.dsv
+[1.455s] -- Installing: /home/dev/final_trial/install/my_robot_bringup/share/my_robot_bringup/local_setup.bash
+[1.455s] -- Installing: /home/dev/final_trial/install/my_robot_bringup/share/my_robot_bringup/local_setup.sh
+[1.455s] -- Installing: /home/dev/final_trial/install/my_robot_bringup/share/my_robot_bringup/local_setup.zsh
+[1.456s] -- Installing: /home/dev/final_trial/install/my_robot_bringup/share/my_robot_bringup/local_setup.dsv
+[1.456s] -- Installing: /home/dev/final_trial/install/my_robot_bringup/share/my_robot_bringup/package.dsv
+[1.456s] -- Installing: /home/dev/final_trial/install/my_robot_bringup/share/ament_index/resource_index/packages/my_robot_bringup
+[1.456s] -- Installing: /home/dev/final_trial/install/my_robot_bringup/share/my_robot_bringup/cmake/my_robot_bringupConfig.cmake
+[1.457s] -- Installing: /home/dev/final_trial/install/my_robot_bringup/share/my_robot_bringup/cmake/my_robot_bringupConfig-version.cmake
+[1.457s] -- Installing: /home/dev/final_trial/install/my_robot_bringup/share/my_robot_bringup/package.xml
+[1.461s] Invoked command in '/home/dev/final_trial/build/my_robot_bringup' returned '0': AMENT_PREFIX_PATH=/home/dev/final_trial/install/my_robot_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/dev/final_trial/install/my_robot_description:/opt/ros/humble /usr/bin/cmake --install /home/dev/final_trial/build/my_robot_bringup

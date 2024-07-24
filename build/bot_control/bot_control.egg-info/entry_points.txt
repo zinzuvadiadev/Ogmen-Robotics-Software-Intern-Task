@@ -1,0 +1,3 @@
+[console_scripts]
+reading_laser = bot_control.reading_laser:main
+

@@ -1,0 +1,6 @@
+Invoking command in '/home/dev/dev_ws/build/bot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/dev/dev_ws/src/bot_description -DCMAKE_INSTALL_PREFIX=/home/dev/dev_ws/install/bot_description
+Invoked command in '/home/dev/dev_ws/build/bot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/dev/dev_ws/src/bot_description -DCMAKE_INSTALL_PREFIX=/home/dev/dev_ws/install/bot_description
+Invoking command in '/home/dev/dev_ws/build/bot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/dev/dev_ws/build/bot_description -- -j12 -l12
+Invoked command in '/home/dev/dev_ws/build/bot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/dev/dev_ws/build/bot_description -- -j12 -l12
+Invoking command in '/home/dev/dev_ws/build/bot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/dev/dev_ws/build/bot_description
+Invoked command in '/home/dev/dev_ws/build/bot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/dev/dev_ws/build/bot_description

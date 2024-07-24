@@ -1,0 +1,39 @@
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 1.3.9 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/dev/dev_ws/build/bot_world
+-- Install configuration: ""
+-- Installing: /home/dev/dev_ws/install/bot_world/share/bot_world//launch
+-- Installing: /home/dev/dev_ws/install/bot_world/share/bot_world//launch/my_robot_gazebo.launch.xml
+-- Installing: /home/dev/dev_ws/install/bot_world/share/bot_world//rviz
+-- Installing: /home/dev/dev_ws/install/bot_world/share/bot_world//rviz/urdf_config.rviz
+-- Installing: /home/dev/dev_ws/install/bot_world/share/bot_world//worlds
+-- Installing: /home/dev/dev_ws/install/bot_world/share/bot_world//worlds/test_world.world
+-- Installing: /home/dev/dev_ws/install/bot_world/share/ament_index/resource_index/package_run_dependencies/bot_world
+-- Installing: /home/dev/dev_ws/install/bot_world/share/ament_index/resource_index/parent_prefix_path/bot_world
+-- Installing: /home/dev/dev_ws/install/bot_world/share/bot_world/environment/ament_prefix_path.sh
+-- Installing: /home/dev/dev_ws/install/bot_world/share/bot_world/environment/ament_prefix_path.dsv
+-- Installing: /home/dev/dev_ws/install/bot_world/share/bot_world/environment/path.sh
+-- Installing: /home/dev/dev_ws/install/bot_world/share/bot_world/environment/path.dsv
+-- Installing: /home/dev/dev_ws/install/bot_world/share/bot_world/local_setup.bash
+-- Installing: /home/dev/dev_ws/install/bot_world/share/bot_world/local_setup.sh
+-- Installing: /home/dev/dev_ws/install/bot_world/share/bot_world/local_setup.zsh
+-- Installing: /home/dev/dev_ws/install/bot_world/share/bot_world/local_setup.dsv
+-- Installing: /home/dev/dev_ws/install/bot_world/share/bot_world/package.dsv
+-- Installing: /home/dev/dev_ws/install/bot_world/share/ament_index/resource_index/packages/bot_world
+-- Installing: /home/dev/dev_ws/install/bot_world/share/bot_world/cmake/bot_worldConfig.cmake
+-- Installing: /home/dev/dev_ws/install/bot_world/share/bot_world/cmake/bot_worldConfig-version.cmake
+-- Installing: /home/dev/dev_ws/install/bot_world/share/bot_world/package.xml

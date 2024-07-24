@@ -1,0 +1,33 @@
+[0.018s] Invoking command in '/home/dev/dev_ws/build/bot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/dev/dev_ws/build/bot_description -- -j12 -l12
+[0.267s] Invoked command in '/home/dev/dev_ws/build/bot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/dev/dev_ws/build/bot_description -- -j12 -l12
+[0.356s] Invoking command in '/home/dev/dev_ws/build/bot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/dev/dev_ws/build/bot_description
+[0.376s] -- Install configuration: ""
+[0.376s] -- Up-to-date: /home/dev/dev_ws/install/bot_description/share/bot_description//urdf
+[0.376s] -- Up-to-date: /home/dev/dev_ws/install/bot_description/share/bot_description//urdf/lidar.xacro
+[0.376s] -- Up-to-date: /home/dev/dev_ws/install/bot_description/share/bot_description//urdf/camera.xacro
+[0.377s] -- Up-to-date: /home/dev/dev_ws/install/bot_description/share/bot_description//urdf/common_properties.xacro
+[0.377s] -- Up-to-date: /home/dev/dev_ws/install/bot_description/share/bot_description//urdf/mobile_base_gazebo.xacro
+[0.377s] -- Up-to-date: /home/dev/dev_ws/install/bot_description/share/bot_description//urdf/my_robot.urdf.xacro
+[0.377s] -- Up-to-date: /home/dev/dev_ws/install/bot_description/share/bot_description//urdf/mobile_base.xacro
+[0.377s] -- Up-to-date: /home/dev/dev_ws/install/bot_description/share/bot_description//launch
+[0.377s] -- Up-to-date: /home/dev/dev_ws/install/bot_description/share/bot_description//launch/rviz.launch.py
+[0.378s] -- Up-to-date: /home/dev/dev_ws/install/bot_description/share/bot_description//launch/lidar_0_to_120.py
+[0.378s] -- Up-to-date: /home/dev/dev_ws/install/bot_description/share/bot_description//launch/display.launch.xml
+[0.378s] -- Up-to-date: /home/dev/dev_ws/install/bot_description/share/bot_description//rviz
+[0.378s] -- Up-to-date: /home/dev/dev_ws/install/bot_description/share/bot_description//rviz/urdf_config.rviz
+[0.378s] -- Up-to-date: /home/dev/dev_ws/install/bot_description/share/ament_index/resource_index/package_run_dependencies/bot_description
+[0.378s] -- Up-to-date: /home/dev/dev_ws/install/bot_description/share/ament_index/resource_index/parent_prefix_path/bot_description
+[0.378s] -- Up-to-date: /home/dev/dev_ws/install/bot_description/share/bot_description/environment/ament_prefix_path.sh
+[0.379s] -- Up-to-date: /home/dev/dev_ws/install/bot_description/share/bot_description/environment/ament_prefix_path.dsv
+[0.379s] -- Up-to-date: /home/dev/dev_ws/install/bot_description/share/bot_description/environment/path.sh
+[0.379s] -- Up-to-date: /home/dev/dev_ws/install/bot_description/share/bot_description/environment/path.dsv
+[0.379s] -- Up-to-date: /home/dev/dev_ws/install/bot_description/share/bot_description/local_setup.bash
+[0.379s] -- Up-to-date: /home/dev/dev_ws/install/bot_description/share/bot_description/local_setup.sh
+[0.380s] -- Up-to-date: /home/dev/dev_ws/install/bot_description/share/bot_description/local_setup.zsh
+[0.380s] -- Up-to-date: /home/dev/dev_ws/install/bot_description/share/bot_description/local_setup.dsv
+[0.380s] -- Up-to-date: /home/dev/dev_ws/install/bot_description/share/bot_description/package.dsv
+[0.380s] -- Up-to-date: /home/dev/dev_ws/install/bot_description/share/ament_index/resource_index/packages/bot_description
+[0.380s] -- Up-to-date: /home/dev/dev_ws/install/bot_description/share/bot_description/cmake/bot_descriptionConfig.cmake
+[0.380s] -- Up-to-date: /home/dev/dev_ws/install/bot_description/share/bot_description/cmake/bot_descriptionConfig-version.cmake
+[0.381s] -- Up-to-date: /home/dev/dev_ws/install/bot_description/share/bot_description/package.xml
+[0.383s] Invoked command in '/home/dev/dev_ws/build/bot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/dev/dev_ws/build/bot_description

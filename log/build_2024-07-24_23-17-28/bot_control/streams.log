@@ -1,0 +1,21 @@
+[0.629s] Invoking command in '/home/dev/dev_ws/src/bot_control': PYTHONPATH=/home/dev/dev_ws/build/bot_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/dev/dev_ws/install/bot_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/bot_control build --build-base /home/dev/dev_ws/build/bot_control/build install --record /home/dev/dev_ws/build/bot_control/install.log --single-version-externally-managed install_data
+[0.879s] running egg_info
+[0.879s] writing ../../build/bot_control/bot_control.egg-info/PKG-INFO
+[0.880s] writing dependency_links to ../../build/bot_control/bot_control.egg-info/dependency_links.txt
+[0.880s] writing entry points to ../../build/bot_control/bot_control.egg-info/entry_points.txt
+[0.880s] writing requirements to ../../build/bot_control/bot_control.egg-info/requires.txt
+[0.880s] writing top-level names to ../../build/bot_control/bot_control.egg-info/top_level.txt
+[0.881s] reading manifest file '../../build/bot_control/bot_control.egg-info/SOURCES.txt'
+[0.882s] writing manifest file '../../build/bot_control/bot_control.egg-info/SOURCES.txt'
+[0.882s] running build
+[0.882s] running build_py
+[0.883s] running install
+[0.883s] running install_lib
+[0.884s] running install_data
+[0.884s] running install_egg_info
+[0.885s] removing '/home/dev/dev_ws/install/bot_control/lib/python3.10/site-packages/bot_control-0.0.0-py3.10.egg-info' (and everything under it)
+[0.885s] Copying ../../build/bot_control/bot_control.egg-info to /home/dev/dev_ws/install/bot_control/lib/python3.10/site-packages/bot_control-0.0.0-py3.10.egg-info
+[0.886s] running install_scripts
+[0.903s] Installing reading_laser script to /home/dev/dev_ws/install/bot_control/lib/bot_control
+[0.903s] writing list of installed files to '/home/dev/dev_ws/build/bot_control/install.log'
+[0.934s] Invoked command in '/home/dev/dev_ws/src/bot_control' returned '0': PYTHONPATH=/home/dev/dev_ws/build/bot_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/dev/dev_ws/install/bot_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/bot_control build --build-base /home/dev/dev_ws/build/bot_control/build install --record /home/dev/dev_ws/build/bot_control/install.log --single-version-externally-managed install_data

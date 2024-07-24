@@ -1,0 +1,36 @@
+[0.698s] Invoking command in '/home/dev/dev_ws/src/bot_control': PYTHONPATH=/home/dev/dev_ws/build/bot_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/dev/dev_ws/install/bot_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/bot_control build --build-base /home/dev/dev_ws/build/bot_control/build install --record /home/dev/dev_ws/build/bot_control/install.log --single-version-externally-managed install_data
+[0.913s] running egg_info
+[0.914s] creating ../../build/bot_control/bot_control.egg-info
+[0.914s] writing ../../build/bot_control/bot_control.egg-info/PKG-INFO
+[0.914s] writing dependency_links to ../../build/bot_control/bot_control.egg-info/dependency_links.txt
+[0.914s] writing entry points to ../../build/bot_control/bot_control.egg-info/entry_points.txt
+[0.914s] writing requirements to ../../build/bot_control/bot_control.egg-info/requires.txt
+[0.915s] writing top-level names to ../../build/bot_control/bot_control.egg-info/top_level.txt
+[0.915s] writing manifest file '../../build/bot_control/bot_control.egg-info/SOURCES.txt'
+[0.916s] reading manifest file '../../build/bot_control/bot_control.egg-info/SOURCES.txt'
+[0.917s] writing manifest file '../../build/bot_control/bot_control.egg-info/SOURCES.txt'
+[0.917s] running build
+[0.917s] running build_py
+[0.917s] creating /home/dev/dev_ws/build/bot_control/build
+[0.917s] creating /home/dev/dev_ws/build/bot_control/build/lib
+[0.918s] creating /home/dev/dev_ws/build/bot_control/build/lib/bot_control
+[0.918s] copying bot_control/__init__.py -> /home/dev/dev_ws/build/bot_control/build/lib/bot_control
+[0.918s] copying bot_control/reading_laser.py -> /home/dev/dev_ws/build/bot_control/build/lib/bot_control
+[0.918s] running install
+[0.918s] running install_lib
+[0.919s] creating /home/dev/dev_ws/install/bot_control/lib/python3.10/site-packages/bot_control
+[0.919s] copying /home/dev/dev_ws/build/bot_control/build/lib/bot_control/__init__.py -> /home/dev/dev_ws/install/bot_control/lib/python3.10/site-packages/bot_control
+[0.919s] copying /home/dev/dev_ws/build/bot_control/build/lib/bot_control/reading_laser.py -> /home/dev/dev_ws/install/bot_control/lib/python3.10/site-packages/bot_control
+[0.919s] byte-compiling /home/dev/dev_ws/install/bot_control/lib/python3.10/site-packages/bot_control/__init__.py to __init__.cpython-310.pyc
+[0.919s] byte-compiling /home/dev/dev_ws/install/bot_control/lib/python3.10/site-packages/bot_control/reading_laser.py to reading_laser.cpython-310.pyc
+[0.920s] running install_data
+[0.920s] creating /home/dev/dev_ws/install/bot_control/share/ament_index
+[0.920s] creating /home/dev/dev_ws/install/bot_control/share/ament_index/resource_index
+[0.920s] creating /home/dev/dev_ws/install/bot_control/share/ament_index/resource_index/packages
+[0.920s] copying resource/bot_control -> /home/dev/dev_ws/install/bot_control/share/ament_index/resource_index/packages
+[0.920s] copying package.xml -> /home/dev/dev_ws/install/bot_control/share/bot_control
+[0.920s] running install_egg_info
+[0.921s] Copying ../../build/bot_control/bot_control.egg-info to /home/dev/dev_ws/install/bot_control/lib/python3.10/site-packages/bot_control-0.0.0-py3.10.egg-info
+[0.922s] running install_scripts
+[0.939s] writing list of installed files to '/home/dev/dev_ws/build/bot_control/install.log'
+[0.967s] Invoked command in '/home/dev/dev_ws/src/bot_control' returned '0': PYTHONPATH=/home/dev/dev_ws/build/bot_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/dev/dev_ws/install/bot_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/bot_control build --build-base /home/dev/dev_ws/build/bot_control/build install --record /home/dev/dev_ws/build/bot_control/install.log --single-version-externally-managed install_data
